@@ -1,7 +1,5 @@
 # PizzaBillCalculator
 
-Author: Navneet Singh
-
 ## Description
 
 The Pizza Bill Calculator is a Java-based command-line application that enables users to create customized pizza orders, add toppings, and calculate the total cost. The application includes the following features:
@@ -9,6 +7,11 @@ The Pizza Bill Calculator is a Java-based command-line application that enables 
 - A user-friendly interface for choosing from predefined pizza options or creating custom pizzas.
 - A system for adding toppings from a predefined list, ensuring a seamless customization process.
 - Cost calculations, including taxes, subtotals, and grand totals, to generate accurate pizza order summaries.
+
+## Technology used
+
+- Java (OOPS)
+- Eclipse
 
 ## Usage Process
 
@@ -31,3 +34,41 @@ The Pizza Bill Calculator is a Java-based command-line application that enables 
 - The application computes the grand total cost using the `calculateGrandTotalCost()` method. This includes the subtotal cost and the total taxes, resulting in your total bill for the delicious pizza.
 
 This process ensures a straightforward and enjoyable pizza ordering experience. Enjoy your pizza!
+
+## Screenshots
+
+### 1. Run on Console
+
+![screenshot](./screenshots/screenshot-1.png)
+
+### 2. Enter your pizza choice number accoring to Pizza menu.
+
+![screenshot](./screenshots/screenshot-2.png)
+
+### 3. Enter pizza size
+
+![screenshot](./screenshots/screenshot-3.png)
+
+### 4. Add topping - Y/N
+
+![screenshot](./screenshots/screenshot-4.png)
+
+### 5. Enter topping choice number according to Topping menu.
+
+![screenshot](./screenshots/screenshot-5.png)
+
+### 6. add more topping - Y/N
+
+![screenshot](./screenshots/screenshot-6.png)
+
+### 7. Enter Tax and charges (in %)
+
+![screenshot](./screenshots/screenshot-7.png)
+
+### 8. Pizza order summaries
+
+![screenshot](./screenshots/screenshot-8.png)
+
+## Made by 
+
+Navneet Singh (https://github.com/Navneet-Singh01)
